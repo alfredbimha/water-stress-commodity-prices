@@ -1,0 +1,7 @@
+Water_Asset,Agri_Asset,Correlation,Granger_p,Granger_sig
+PHO,DBA,0.1829,0.813,No
+PHO,WEAT,0.0117,0.7356,No
+PHO,CORN,0.0399,0.2967,No
+CGW,DBA,0.1977,0.7216,No
+CGW,WEAT,0.0087,0.3703,No
+CGW,CORN,0.0526,0.1902,No
